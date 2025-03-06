@@ -187,10 +187,10 @@ export default function Home() {
         Ready to elevate your next gathering? Book a consultation to discover how we can bring your vision to life.
         </p>
         <div className="flex space-x-[8px] text-[16px] font-normal mt-6">
-          <button className="w-[115px] h-[48px] rounded-[24px] border-[0.5px] py-[12px] px-[24px]">
+          <button className="w-[115px] h-[48px] rounded-[24px] border-[1px] border-[#36813E] py-[12px] px-[24px]">
           Call Now
           </button>
-          <button className="w-[101px] h-[48px] rounded-[24px] border-[0.5px] py-[12px] px-[24px]">
+          <button className="w-[101px] h-[48px] rounded-[24px] border-[1px] border-[#36813E] py-[12px] px-[24px]">
            Explore
           </button>
         </div>
